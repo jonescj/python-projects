@@ -34,14 +34,26 @@ TBD
   - [dictionaries.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-03-functions-and-data-structures/dictionaries.py)
   
 
-- [Lesson 3 - Functions and Data Structures](https://github.com/jonescj/python-projects/tree/main/lessons/lesson-03-functions-and-data-structures)
+- [Lesson 3 - Functions and Data Structures](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-03-functions-and-data-structures)
 
-  - [defining-a-function.py](https://github.com/jonescj/python-projects/tree/main/lessons/lesson-03-functions-and-data-structures/defining-a-function.py)
+  - [defining-a-function.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-03-functions-and-data-structures/defining-a-function.py)
 
-  - [return-statement.py](https://github.com/jonescj/python-projects/tree/main/lessons/lesson-03-functions-and-data-structures/return-statement.py)
+  - [return-statement.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-03-functions-and-data-structures/return-statement.py)
 
-  - [lists.py](https://github.com/jonescj/python-projects/tree/main/lessons/lesson-03-functions-and-data-structures/lists.py)
+  - [lists.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise03-functions-and-data-structures/lists.py)
 
-  - [tuples.py](https://github.com/jonescj/python-projects/tree/main/lessons/lesson-03-functions-and-data-structures/tuples.py)
+  - [tuples.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-03-functions-and-data-structures/tuples.py)
 
-  - [dictionaries.py](https://github.com/jonescj/python-projects/tree/main/lessons/lesson-03-functions-and-data-structures/dictionaries.py)
+  - [dictionaries.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-03-functions-and-data-structures/dictionaries.py)
+  
+- [Exercise 4 - Object-Oriented Programming (OOP)](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-04-object-oriented-programming)
+
+  - [classes-and-objects.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-04-object-oriented-programming/classes-and-objects.py)
+
+  - [inheritance.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-04-object-oriented-programming/inheritance.py)
+
+- [Exercise 5 - File Handling](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-05-file-handling)
+
+  - [file-handling.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-05-file-handling/?.py)
+
+

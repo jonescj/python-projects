@@ -37,6 +37,18 @@ TBD
   - [tuples.py](https://github.com/jonescj/python-projects/tree/main/lessons/lesson-03-functions-and-data-structures/tuples.py)
 
   - [dictionaries.py](https://github.com/jonescj/python-projects/tree/main/lessons/lesson-03-functions-and-data-structures/dictionaries.py)
+  
+- [Lesson 4 - Object-Oriented Programming (OOP)](https://github.com/jonescj/python-projects/tree/main/lessons/lesson-04-object-oriented-programming)
+
+  - [defining-a-class.py](https://github.com/jonescj/python-projects/tree/main/lessons/lesson-04-object-oriented-programming/defining-a-class.py)
+
+  - [inheritance.py](https://github.com/jonescj/python-projects/tree/main/lessons/lesson-04-object-oriented-programming/inheritance.py)
+
+- [Lesson 5 - File Handling](https://github.com/jonescj/python-projects/tree/main/lessons/lesson-05-file-handling)
+
+  - [reading-from-a-file.py](https://github.com/jonescj/python-projects/tree/main/lessons/lesson-05-file-handling/reading-from-a-file.py)
+
+  - [writing-to-a-file.py](https://github.com/jonescj/python-projects/tree/main/lessons/lesson-05-file-handling/writing-to-a-file.py)
 
 ### Exercises
 
@@ -73,3 +85,13 @@ TBD
 
   - [dictionaries.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-03-functions-and-data-structures/dictionaries.py)
   
+- [Exercise 4 - Object-Oriented Programming (OOP)](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-04-object-oriented-programming)
+
+  - [classes-and-objects.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-04-object-oriented-programming/classes-and-objects.py)
+
+  - [inheritance.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-04-object-oriented-programming/inheritance.py)
+
+- [Exercise 5 - File Handling](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-05-file-handling)
+
+  - [file-handling.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-05-file-handling/file-handling.py)
+

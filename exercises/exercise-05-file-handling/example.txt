@@ -1,0 +1,4 @@
+I am a file!
+I was a file!
+I am now not a file!
+I was never a file!
