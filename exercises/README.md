@@ -19,3 +19,29 @@ TBD
   - [while-loop.py](https://github.com/jonescj/python-projects/tree/main/exercises/while-loop.py)
 
   - [break-and-continue.py](https://github.com/jonescj/python-projects/tree/main/exercises/break-and-continue.py)
+
+- [Exercise 3 - Functions and Data Structures](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-03-functions-and-data-structures)
+
+  - [functions.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-03-functions-and-data-structures/functions.py)
+  
+
+  - [lists.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-03-functions-and-data-structures/lists.py)
+  
+
+  - [tuples.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-03-functions-and-data-structures/tuples.py)
+  
+
+  - [dictionaries.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-03-functions-and-data-structures/dictionaries.py)
+  
+
+- [Lesson 3 - Functions and Data Structures](https://github.com/jonescj/python-projects/tree/main/lessons/lesson-03-functions-and-data-structures)
+
+  - [defining-a-function.py](https://github.com/jonescj/python-projects/tree/main/lessons/lesson-03-functions-and-data-structures/defining-a-function.py)
+
+  - [return-statement.py](https://github.com/jonescj/python-projects/tree/main/lessons/lesson-03-functions-and-data-structures/return-statement.py)
+
+  - [lists.py](https://github.com/jonescj/python-projects/tree/main/lessons/lesson-03-functions-and-data-structures/lists.py)
+
+  - [tuples.py](https://github.com/jonescj/python-projects/tree/main/lessons/lesson-03-functions-and-data-structures/tuples.py)
+
+  - [dictionaries.py](https://github.com/jonescj/python-projects/tree/main/lessons/lesson-03-functions-and-data-structures/dictionaries.py)
