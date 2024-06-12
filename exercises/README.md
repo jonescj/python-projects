@@ -34,7 +34,7 @@ TBD
   - [dictionaries.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-03-functions-and-data-structures/dictionaries.py)
   
 
-- [Lesson 3 - Functions and Data Structures](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-03-functions-and-data-structures)
+- [Exercise 3 - Functions and Data Structures](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-03-functions-and-data-structures)
 
   - [defining-a-function.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-03-functions-and-data-structures/defining-a-function.py)
 
@@ -54,6 +54,32 @@ TBD
 
 - [Exercise 5 - File Handling](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-05-file-handling)
 
-  - [file-handling.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-05-file-handling/?.py)
+  - [file-handling.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-05-file-handling/file-handling.py)
+
+- [Exercise 6 - Modules and Packages](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-06-modules-and-packages)
+
+  - [mypackage](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-06-modules-and-packages/mypackage)
+
+    - [__init__.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-06-modules-and-packages/mypackage/__init__.py)
+
+    - [module1.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-06-modules-and-packages/mypackage/module1.py)
+
+    - [module2.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-06-modules-and-packages/mypackage/module2.py)
+
+  - [main1.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-06-modules-and-packages/main1.py)
+
+  - [main2.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-06-modules-and-packages/main2.py)
+
+  - [mymodule.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-06-modules-and-packages/mymodule.py)
+
+- [Exercise 7 - Error Handling](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-07-error-handling)
+
+  - [file_not_found.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-07-error-handling/file_not_found.py)
+
+  - [value_not_found.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-07-error-handling/value_not_found.py)
+
+- [Exercise 8 - Working with External Libraries](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-08-working-with-external-libraries)
+
+  - [external-libraries.py](https://github.com/jonescj/python-projects/tree/main/exercises/exercise-08-working-with-external-libraries/external-libraries.py)
 
 
