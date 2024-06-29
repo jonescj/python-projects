@@ -1,4 +1,4 @@
-# Python Practice and Proects
+# Python Practice and Projects
 
 ### Projects
 
